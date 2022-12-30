@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "11.01.1990"; // Дата рождения
-var fullname = "Гомон Георгій Антонович" // ФИО
+var birthdate = "23.10.2002"; // Дата рождения
+var fullname = "Кватковский Марк Янкович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
