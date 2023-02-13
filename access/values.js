@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "23.10.2002"; // Дата рождения
-var fullname = "Кватковский Марк Янкович" // ФИО
+var birthdate = "06.07.2001"; // Дата рождения
+var fullname = "Макаров Дмитро Олексійович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
