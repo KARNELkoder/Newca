@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "06.07.2001"; // Дата рождения
-var fullname = "Макаров Дмитро Олексійович" // ФИО
+var birthdate = "02.03.2005"; // Дата рождения
+var fullname = "Комаров Артур Михайлович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
