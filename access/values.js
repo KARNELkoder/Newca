@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "02.03.2005"; // Дата рождения
-var fullname = "Комаров Артур Михайлович" // ФИО
+var birthdate = "15.11.2004"; // Дата рождения
+var fullname = "Кузнецов Винсан Романович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
@@ -15,7 +15,7 @@ var kpp_id = "3872011238" // ИНН
 
 // Права
 var rights_valid_until = "11.09.2027" // Права "Дійсні до"
-var rights_categories = "A, A¹" // Права "Категорії"
+var rights_categories = "A, B" // Права "Категорії"
 var rights_tsc = "ТСЦ 8631" // Права "Видав
 var rights_id = "KBE968639" // Права "Серія та номер""
 
