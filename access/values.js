@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "15.11.2004"; // Дата рождения
-var fullname = "Кузнецов Винсан Романович" // ФИО
+var birthdate = "04.04.2003"; // Дата рождения
+var fullname = "Кудла Любомир Іванович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
