@@ -3,7 +3,7 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "04.04.2003"; // Дата рождения
+var birthdate = "04.04.2005"; // Дата рождения
 var fullname = "Кудла Любомир Іванович" // ФИО
 var name = "Имя" // Имя
 
