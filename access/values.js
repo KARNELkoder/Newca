@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "04.04.2005"; // Дата рождения
-var fullname = "Кудла Любомир Іванович" // ФИО
+var birthdate = "22.04.1984"; // Дата рождения
+var fullname = "Шаркозі Ахмед Анатолійовеч" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
